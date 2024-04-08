@@ -17,8 +17,11 @@ CIDR /26
 ### Découpage Asymétrique
 
 pole informatiques on fait 2^6=64 -2= 60 equipements  32-6  CIDR /26
+  
 pole développement on fait 2^4=16 -2= 14 équipement   32-4  CIDR /28
+  
 pole administratif on fait 2^5=32 -2= 30 équipements  32-5  CIDR /27
+  
 pole technicien on fait 2^5=32 -2= 30 équipements     32-5  CIDR /27
 
 |                        | adresse reseau | début de plage | fin de plage | adresse broadcast |
