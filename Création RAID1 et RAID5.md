@@ -7,9 +7,9 @@
     
 ```sudo mdadm --create /dev/md0 --level 1 --raid-devices 2 /dev/sda1 /dev/sdb1```
     
-## Vérification fichier mdstat
+## Vérification de l'etat du RAID
     
-![](https://github.com/Lucapouilly/Quetes-Odyssey/blob/main/Ressources/fichier%20mdcat.png)
+![](https://github.com/Lucapouilly/Quetes-Odyssey/blob/main/Ressources/Capture%20d%E2%80%99e%CC%81cran%202024-05-27%20a%CC%80%2018.18.48.png)
     
 ## Formatage volume RAID
     
