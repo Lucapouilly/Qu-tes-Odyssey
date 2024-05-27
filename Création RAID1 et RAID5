@@ -9,7 +9,7 @@
     
 ## Vérification fichier mdstat
     
-![]()
+![](https://github.com/Lucapouilly/Quetes-Odyssey/blob/main/Ressources/fichier%20mdcat.png)
     
 ## Formatage volume RAID
     
@@ -35,16 +35,16 @@
 - retire le disque à chaud    
 ```sudo mdadm --manage /dev/md0 --remove /dev/sdb1```
     
-![]()
+![](https://github.com/Lucapouilly/Quetes-Odyssey/blob/main/Ressources/mise%20en%20panne%20raid.png)
 
 ## Ajout du disque sdc au RAID
    
 ``` sudo mdadm --manage /dev/md0 --add /dev/sdc1```
     
 ## Vérification de la reconstruction
-![]()
+![](https://github.com/Lucapouilly/Quetes-Odyssey/blob/main/Ressources/reconstruction.png)
     
-![]()
+![](https://github.com/Lucapouilly/Quetes-Odyssey/blob/main/Ressources/verif%20final%20raid%201.png)
     
 
 # Création du RAID 5
@@ -66,7 +66,7 @@
     
 ## Vérification de l'etat du RAID5
 
-![]()
+![](https://github.com/Lucapouilly/Quetes-Odyssey/blob/main/Ressources/verif%20raid%205.png)
 
 
 
