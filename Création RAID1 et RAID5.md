@@ -17,7 +17,7 @@
     
 ## Création point de montage/montage
     
-```sudo mkdir /home/wilder/Data-RAID1 -p```
+```sudo mkdir /home/wilder/Data-RAID1 -p```   
 ```sudo mount /dev/md0 /home/wilder/Data-RAID1/```
     
 ## Ajout du point de monatge au démarage dans le fichier ```/etc/fstab/```
